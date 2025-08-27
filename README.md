@@ -1,4 +1,18 @@
-# Potato Disease Classification
+# 🌱 AgriVision: Deep Learning Based Potato Disease Classification
+AgriVision is an end-to-end deep learning project that classifies potato leaf diseases using Convolutional Neural Networks (CNNs).  
+The system provides accurate disease detection and integrates with a REST API, web frontend, and mobile app for real-world usage.  
+
+---
+
+## 🚀 Features
+- **Model Training** – Train a CNN using potato leaf images.  
+- **REST API** – Serve predictions using FastAPI or TensorFlow Serving.  
+- **Web Interface** – Upload potato leaf images via a React web app.  
+- **Mobile App** – React Native mobile application for real-time predictions.  
+- **TF Lite Conversion** – Convert trained models into lightweight versions for mobile/edge devices.  
+- **Cloud Deployment** – Deploy models as Google Cloud Functions for scalable inference.  
+
+---
 
 ## Setup for Python:
 
